@@ -6,7 +6,7 @@ Neste material vamos explorar banco de dados Oracle e sua linguagem PL/SQL, uma 
 | Oracle PLSQL/SQL (Parte 01) | [Bloco anônimo, variaveis Bind, select, insert e update no PL/SQL, cursor implicito.](https://medium.com/@dev.daniel.amorim/oracle-plsql-sql-5db80b8abb10) | --- |
 | Oracle PLSQL/SQL (Parte 02) | [Condicionais e loops com PL/SQL](https://medium.com/@dev.daniel.amorim/oracle-plsql-sql-parte-02-e999ab635459) | --- |
 | Oracle PLSQL/SQL (Parte 03) | [Recors, tipos de collections e métodos de controle.](https://medium.com/@dev.daniel.amorim/oracle-plsql-sql-parte-03-4ded7ec0b71f) | --- |
-| Oracle PLSQL/SQL (Parte 04) | [Cursor explicito](https://medium.com/@dev.daniel.amorim/cursor-explicito-cae828425c45) | --- |
+| Oracle PLSQL/SQL (Parte 04) | [Cursor explicito (atributos, for loop, passagem de parâmetros)](https://medium.com/@dev.daniel.amorim/cursor-explicito-cae828425c45) | --- |
 
 
 ## Oracle - APEX
