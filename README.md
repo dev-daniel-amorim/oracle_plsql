@@ -7,7 +7,7 @@ Neste material vamos explorar banco de dados Oracle e sua linguagem PL/SQL, uma 
 | Oracle PLSQL/SQL (Parte 02) | [Condicionais e loops com PL/SQL](https://medium.com/@dev.daniel.amorim/oracle-plsql-sql-parte-02-e999ab635459) | --- |
 | Oracle PLSQL/SQL (Parte 03) | [Records, tipos de collections e métodos de controle.](https://medium.com/@dev.daniel.amorim/oracle-plsql-sql-parte-03-4ded7ec0b71f) | --- |
 | Oracle PLSQL/SQL (Parte 04) | [Cursor explicito (atributos, for loop, passagem de parâmetros)](https://medium.com/@dev.daniel.amorim/cursor-explicito-cae828425c45) | --- |
-| Oracle PLSQL/SQL (Parte 05) | [Tratamento de exceções)](https://medium.com/@dev.daniel.amorim/oracle-plsql-sql-parte-05-64d0722edb3) | --- |
+| Oracle PLSQL/SQL (Parte 05) | [Tratamento de exceções](https://medium.com/@dev.daniel.amorim/oracle-plsql-sql-parte-05-64d0722edb3) | --- |
 | Oracle PLSQL/SQL (Parte 06) | [Procedures](https://medium.com/@dev.daniel.amorim/oracle-plsql-sql-parte-06-fe89339ae8de) | --- |
 
 ## Oracle - APEX
