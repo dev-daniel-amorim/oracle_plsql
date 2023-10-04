@@ -11,6 +11,7 @@ Neste material vamos explorar banco de dados Oracle e sua linguagem PL/SQL, uma 
 | Oracle PLSQL/SQL (Parte 06) | [Procedures](https://medium.com/@dev.daniel.amorim/oracle-plsql-sql-parte-06-fe89339ae8de) | --- |
 | Oracle PLSQL/SQL (Parte 07) | [Functions](https://medium.com/@dev.daniel.amorim/oracle-plsql-sql-parte-07-7062a4d09f43) | --- |
 | Oracle PLSQL/SQL (Parte 08) | [Gerenciamento de dependências](https://medium.com/@dev.daniel.amorim/oracle-gerenciamento-de-depend%C3%AAncias-parte-8-fed17d11b001) | --- |
+| Oracle PLSQL/SQL (Parte 09) | [Package Specifications](https://medium.com/@dev.daniel.amorim/oracle-package-specification-parte-10-bcbdf3d0c2ce) | --- |
 
 ## Oracle - APEX
 
